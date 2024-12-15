@@ -7,6 +7,7 @@ function App() {
     <>
    <Chai/>
   <h1>Welcome to my first react demo application | Shivam</h1>
+  <h2>Today is cheat day</h2>
   </>
   )
 }
